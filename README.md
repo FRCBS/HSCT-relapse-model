@@ -1,2 +1,3 @@
 # HSCT-relapse-model
-Genomic prediction of relapse after HSCT
+
+This repository contains scripts used for genomic prediction of relapse after HSCT
