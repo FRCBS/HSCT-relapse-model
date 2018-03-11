@@ -2,7 +2,7 @@
 
 This repository contains scripts used for genomic prediction of relapse after HSCT
 
-## Script files
+## src
 
 `Plink_feature_selection.sh` Shell script for Plink association test leaving each sample out in turn.
 
